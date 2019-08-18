@@ -1,0 +1,43 @@
+html { 
+  margin:0;
+  padding:0;
+  background: url(image/bg.jpg) no-repeat center fixed; 
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */
+}
+
+body {
+    text-align: right;
+    margin: auto 5px;
+    margin-top: 30px;
+    width: 95%;
+}
+
+h1 {
+    font-size: 3em;
+    font-family: 'Helvetica','Arial','Sans-Serif';
+    color: rgb(200,200,200);
+    margin-bottom: 0;
+    margin-top: 0;
+}
+h2 {
+    font-size: small;
+    font-family: 'Helvetica','Arial','Sans-Serif';
+    color: rgb(180,180,180);
+    margin-top: 0;
+}
+
+a:link {
+    color: gainsboro;
+}
+
+a:visited {
+    color: beige;
+}
+
+h2 {
+    font-size: small;
+    font-family: 'Helvetica','Arial','Sans-Serif';
+    color: rgb(180,180,180);
+    margin-top: 0;
+}
